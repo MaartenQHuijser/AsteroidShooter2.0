@@ -1,5 +1,7 @@
 # Astroid Shooter 2.0
 
+https://maartenqhuijser.github.io/AsteroidShooter2.0/docs/
+
 ### About this project
 This is a typescript-based game made for our programming class. 
 
